@@ -1,0 +1,1113 @@
+1. Sender account names (count: 27)
+stephen.marquard
+louis
+zqian
+rjlowe
+zqian
+rjlowe
+cwen
+cwen
+gsilver
+gsilver
+zqian
+gsilver
+wagnermr
+zqian
+antranig
+gopal.ramasammycook
+david.horwitz
+david.horwitz
+david.horwitz
+david.horwitz
+stephen.marquard
+louis
+louis
+ray
+cwen
+cwen
+cwen
+
+2. Revision numbers (Details) (count: 27)
+39772
+39771
+39770
+39769
+39766
+39765
+39764
+39763
+39762
+39761
+39760
+39759
+39758
+39757
+39756
+39755
+39754
+39753
+39752
+39751
+39750
+39749
+39746
+39745
+39744
+39743
+39742
+
+3. Number of emails: 27
+
+4. Sender domains (count: 27)
+uct.ac.za
+media.berkeley.edu
+umich.edu
+iupui.edu
+umich.edu
+iupui.edu
+iupui.edu
+iupui.edu
+umich.edu
+umich.edu
+umich.edu
+umich.edu
+iupui.edu
+umich.edu
+caret.cam.ac.uk
+gmail.com
+uct.ac.za
+uct.ac.za
+uct.ac.za
+uct.ac.za
+uct.ac.za
+media.berkeley.edu
+media.berkeley.edu
+media.berkeley.edu
+iupui.edu
+iupui.edu
+iupui.edu
+
+5. X-DSPAM-Confidence scores (count: 27)
+0.8475
+0.6178
+0.6961
+0.7565
+0.7626
+0.7556
+0.7002
+0.7615
+0.7601
+0.7605
+0.6959
+0.7606
+0.7559
+0.7605
+0.6932
+0.7558
+0.6526
+0.6948
+0.6528
+0.7002
+0.7554
+0.6956
+0.6959
+0.7556
+0.9846
+0.8509
+0.9907
+
+6. Log messages (count: 27)
+SAK-12501 merge to 2-5-x: r39622, r39624:5, r39632:3 (resolve conflict from differing linebreaks for r39622)
+BSP-1415 New (Guest) user Notification
+merge fix to SAK-9996 into 2-5-x branch: svn merge -r 39687:39688 https://source.sakaiproject.org/svn/site-manage/trunk/
+SAK-12180 - Fixed errors with grading helper
+merge fix to SAK-10788 into site-manage 2.4.x branch:
+
+Sakai Source Repository  	#38024  	Wed Nov 07 14:54:46 MST 2007  	zqian@umich.edu  	 Fix to SAK-10788: If a provided id in a couse site is fake or doesn't provide any user information, Site Info appears to be like project site with empty participant list
+
+Watch for enrollments object being null and concatenate provider ids when there are more than one.
+Files Changed
+MODIFY /site-manage/trunk/site-manage-tool/tool/src/java/org/sakaiproject/site/tool/SiteAction.java
+SAK-12180 - New helper tool to grade an assignment
+unmerge Xingtang's checkin for SAK-12488.
+
+svn merge -r39558:39557 https://source.sakaiproject.org/svn/msgcntr/trunk
+U    messageforums-app/src/java/org/sakaiproject/tool/messageforums/PrivateMessagesTool.java
+U    messageforums-app/src/java/org/sakaiproject/tool/messageforums/ui/PrivateMessageDecoratedBean.java
+
+svn log -r 39558
+unmerge Xingtang's check in for SAK-12484.
+
+svn merge -r39571:39570 https://source.sakaiproject.org/svn/msgcntr/trunk
+U    messageforums-api/src/bundle/org/sakaiproject/api/app/messagecenter/bundle/Messages.properties
+U    messageforums-app/src/java/org/sakaiproject/tool/messageforums/PrivateMessagesTool.java
+
+svn log -r 39571
+SAK-12596
+http://bugs.sakaiproject.org/jira/browse/SAK-12596
+- left moot (unused) entries commented for now
+SAK-12595
+http://bugs.sakaiproject.org/jira/browse/SAK-12595
+- left moot (unused) entries commented for now
+fix to SAK-10911: Refactor use of site.upd, site.upd.site.mbrship and site.upd.grp.mbrship permissions
+SAK-12592
+http://bugs.sakaiproject.org/jira/browse/SAK-12592
+- left moot (unused) entries commented for now
+SAK-12175
+http://bugs.sakaiproject.org/jira/browse/SAK-12175
+Create methods required for gb integration with the Assignment2 tool
+getGradeDefinitionForStudentForItem
+fix to SAK-12604:Don't show groups/sections filter if the site doesn't have any
+Temporary commit of incomplete work on JAR caching
+SAK-12065 Gopal - Samigo Group Release. SubmissionStatus/TotalScores/Questions View filter.
+svn log -r39753 https://source.sakaiproject.org/svn/polls/trunk
+SAK-12228 implmented workaround sugested by AB - needs to be tested against a trunk build
+svn log -r39641 https://source.sakaiproject.org/svn/podcasts/trunk
+svn log -r39146 https://source.sakaiproject.org/svn/podcasts/trunk
+SAK-6216 merge event change from SAK-11169 (r39033) to synchronize branch with 2-5-x (for convenience for UCT local build)
+BSP-1420 Update text to clarify "Re-Use Materials..." option in WS Setup
+BSP-1421 Add text to clarify "Duplicate Site" option in Site Info
+SAK-12602 Fix logic when a user has multiple roles in a section
+update external for GB.
+svn merge -c 39403 https://source.sakaiproject.org/svn/gradebook/trunk
+U    app/ui/src/java/org/sakaiproject/tool/gradebook/ui/RosterBean.java
+
+svn log -r 39403 https://source.sakaiproject.org/svn/gradebook/trunk
+svn merge -c 35014 https://source.sakaiproject.org/svn/gradebook/trunk
+U    app/ui/src/java/org/sakaiproject/tool/gradebook/ui/RosterBean.java
+
+svn log -r 35014 https://source.sakaiproject.org/svn/gradebook/trunk
+
+7. Sent dates (count: 54)
+Jan 5, 2008
+2008-01-05 09:12:07 -0500 (Sat, 05 Jan 2008)
+Jan 4, 2008
+2008-01-04 18:08:50 -0500 (Fri, 04 Jan 2008)
+Jan 4, 2008
+2008-01-04 16:09:01 -0500 (Fri, 04 Jan 2008)
+Jan 4, 2008
+2008-01-04 15:44:39 -0500 (Fri, 04 Jan 2008)
+Jan 4, 2008
+2008-01-04 15:01:37 -0500 (Fri, 04 Jan 2008)
+Jan 4, 2008
+2008-01-04 14:48:37 -0500 (Fri, 04 Jan 2008)
+Jan 4, 2008
+2008-01-04 11:35:25 -0500 (Fri, 04 Jan 2008)
+Jan 4, 2008
+2008-01-04 11:33:05 -0500 (Fri, 04 Jan 2008)
+Jan 4, 2008
+2008-01-04 11:11:00 -0500 (Fri, 04 Jan 2008)
+Jan 4, 2008
+2008-01-04 11:10:04 -0500 (Fri, 04 Jan 2008)
+Jan 4, 2008
+2008-01-04 11:09:12 -0500 (Fri, 04 Jan 2008)
+Jan 4, 2008
+2008-01-04 11:08:38 -0500 (Fri, 04 Jan 2008)
+Jan 4, 2008
+2008-01-04 10:37:04 -0500 (Fri, 04 Jan 2008)
+Jan 4, 2008
+2008-01-04 10:15:54 -0500 (Fri, 04 Jan 2008)
+Jan 4, 2008
+2008-01-04 10:01:40 -0500 (Fri, 04 Jan 2008)
+Jan 4, 2008
+2008-01-04 09:02:54 -0500 (Fri, 04 Jan 2008)
+Jan 4, 2008
+2008-01-04 07:00:10 -0500 (Fri, 04 Jan 2008)
+Jan 4, 2008
+2008-01-04 06:05:51 -0500 (Fri, 04 Jan 2008)
+Jan 4, 2008
+2008-01-04 04:47:16 -0500 (Fri, 04 Jan 2008)
+Jan 4, 2008
+2008-01-04 04:31:35 -0500 (Fri, 04 Jan 2008)
+Jan 4, 2008
+2008-01-04 04:05:43 -0500 (Fri, 04 Jan 2008)
+Jan 3, 2008
+2008-01-03 19:23:46 -0500 (Thu, 03 Jan 2008)
+Jan 3, 2008
+2008-01-03 17:16:39 -0500 (Thu, 03 Jan 2008)
+Jan 3, 2008
+2008-01-03 17:05:11 -0500 (Thu, 03 Jan 2008)
+Jan 3, 2008
+2008-01-03 16:33:02 -0500 (Thu, 03 Jan 2008)
+Jan 3, 2008
+2008-01-03 16:27:29 -0500 (Thu, 03 Jan 2008)
+Jan 3, 2008
+2008-01-03 16:22:14 -0500 (Thu, 03 Jan 2008)
+
+8. ESMTP IDs (count: 108)
+m05EEFR1013674
+5F919BC2F2
+A215243002
+m05ECJVp010329
+m04NAbGa029441
+07969BB706
+4BA2F42F57
+m04N8vHG008127
+m04LAcZw014275
+C48CDBB490
+7D13042F71
+m04L927E007925
+m04KkNbx032077
+4AE03BB552
+A55D242F57
+m04KieqE007883
+m04K3HGF006563
+57770BB477
+AB4D042F4D
+m04K1cXv007740
+m04JoHJi019755
+2D1B9BB492
+B3E6742F4A
+m04JmeV9007707
+m04GbT9x022078
+8D13DBB001
+D430B42E42
+m04GZQ7W007315
+m04GZ6lt020480
+E40FABAE5B
+1CD0C42E42
+m04GX6Y3007294
+m04GCaHB030887
+99715BAE7D
+0A6ED42DFC
+m04GB1Wt007223
+m04GBqqv025330
+62AA4BAE46
+C596A3DFA2
+m04GA5LR007211
+m04GB3Vg011502
+C7251BAD44
+2E7043DFA2
+m04G9Eqg007199
+m04GAL9k010604
+98D04BAD43
+9F89542DD0
+m04G8dXN007186
+m04Fcfjm012313
+6A39594CD2
+CEFA037ACE
+m04Fb6nh007094
+m04FHgfs011536
+BD02DBAC64
+5B396236B9
+m04FFv85007052
+m04F4Dci015108
+933E3BAC17
+AC2F6236B9
+m04F21hn007033
+m04E5U3C029277
+33C7856DC0
+3C0261D617
+m04E3pQS006928
+m04C2VN7026678
+6497FBA906
+5296342D3C
+m04C0gnm006795
+m04B8Qw9001368
+784A476D7B
+1CACC42D0C
+m04B6lWM006679
+m049n60G017588
+254CC8CDEE
+8C13342C92
+m049lU3P006519
+m049Xge3031803
+6C929BA656
+6C69423767
+m049W3fl006495
+m0497WAN027902
+88598BA5B6
+90636418A8
+m0495sZs006422
+m040pJHB027171
+E6CC4B9F8A
+8889842C49
+m040NpgM005475
+m03MIMXY027729
+EF439B98CE
+905D53C2FD
+m03MGhrs005294
+m03M6xaq014868
+0BC8D7225E
+2AB513C2FD
+m03M5EQa005275
+m03LYdY1029538
+CC710ADC79
+43C4242B55
+m03LX3Vb005193
+m03LT6uw027749
+DEC65ADC79
+1FBB042B30
+m03LRUk4005179
+m03LNlf0002115
+9D005B9D06
+3535542B69
+m03LMFtT005150
+
+9. IP addresses in Received headers (count: 189)
+141.211.14.90
+141.211.14.79
+194.35.219.184
+127.0.0.1
+194.35.219.182
+134.68.220.122
+127.0.0.1
+141.211.14.97
+141.211.93.149
+194.35.219.184
+127.0.0.1
+194.35.219.182
+134.68.220.122
+127.0.0.1
+141.211.14.25
+141.211.93.144
+194.35.219.184
+127.0.0.1
+194.35.219.182
+134.68.220.122
+127.0.0.1
+141.211.14.25
+141.211.14.43
+194.35.219.184
+127.0.0.1
+194.35.219.182
+134.68.220.122
+127.0.0.1
+141.211.14.46
+141.211.14.83
+194.35.219.184
+127.0.0.1
+194.35.219.182
+134.68.220.122
+127.0.0.1
+141.211.14.93
+141.211.93.142
+194.35.219.184
+127.0.0.1
+194.35.219.182
+134.68.220.122
+127.0.0.1
+141.211.14.46
+141.211.14.72
+194.35.219.184
+127.0.0.1
+194.35.219.182
+134.68.220.122
+127.0.0.1
+141.211.14.46
+141.211.93.151
+194.35.219.184
+127.0.0.1
+194.35.219.182
+134.68.220.122
+127.0.0.1
+141.211.14.25
+141.211.14.79
+194.35.219.184
+127.0.0.1
+194.35.219.182
+134.68.220.122
+127.0.0.1
+141.211.14.36
+141.211.14.84
+194.35.219.184
+127.0.0.1
+194.35.219.182
+134.68.220.122
+127.0.0.1
+141.211.14.97
+141.211.93.152
+194.35.219.184
+127.0.0.1
+194.35.219.182
+134.68.220.122
+127.0.0.1
+141.211.14.39
+141.211.14.79
+194.35.219.184
+127.0.0.1
+194.35.219.182
+134.68.220.122
+127.0.0.1
+141.211.14.90
+141.211.93.153
+194.35.219.184
+127.0.0.1
+194.35.219.182
+134.68.220.122
+127.0.0.1
+141.211.14.97
+141.211.14.84
+194.35.219.184
+127.0.0.1
+194.35.219.182
+134.68.220.122
+127.0.0.1
+141.211.14.25
+141.211.14.79
+194.35.219.184
+127.0.0.1
+194.35.219.182
+134.68.220.122
+127.0.0.1
+141.211.14.90
+141.211.14.76
+194.35.219.184
+127.0.0.1
+194.35.219.182
+134.68.220.122
+127.0.0.1
+141.211.14.39
+141.211.14.76
+194.35.219.184
+127.0.0.1
+194.35.219.182
+134.68.220.122
+127.0.0.1
+141.211.14.98
+141.211.14.83
+194.35.219.184
+127.0.0.1
+194.35.219.182
+134.68.220.122
+127.0.0.1
+141.211.14.92
+141.211.93.145
+194.35.219.184
+127.0.0.1
+194.35.219.182
+134.68.220.122
+127.0.0.1
+141.211.14.46
+141.211.93.143
+194.35.219.184
+127.0.0.1
+194.35.219.182
+134.68.220.122
+127.0.0.1
+141.211.14.25
+141.211.14.58
+194.35.219.184
+127.0.0.1
+194.35.219.182
+134.68.220.122
+127.0.0.1
+141.211.14.91
+141.211.93.142
+194.35.219.184
+127.0.0.1
+194.35.219.182
+134.68.220.122
+127.0.0.1
+141.211.14.91
+141.211.14.58
+194.35.219.184
+127.0.0.1
+194.35.219.182
+134.68.220.122
+127.0.0.1
+141.211.14.39
+141.211.93.141
+194.35.219.184
+127.0.0.1
+194.35.219.182
+134.68.220.122
+127.0.0.1
+141.211.14.34
+141.211.93.149
+194.35.219.184
+127.0.0.1
+194.35.219.182
+134.68.220.122
+127.0.0.1
+141.211.14.46
+141.211.93.145
+194.35.219.184
+127.0.0.1
+194.35.219.182
+134.68.220.122
+127.0.0.1
+141.211.14.91
+141.211.14.58
+194.35.219.184
+127.0.0.1
+194.35.219.182
+134.68.220.122
+127.0.0.1
+
+10. Subjects containing 'gradebook' (count: 5)
+[sakai] svn commit: r39769 - in gradebook/trunk/app/ui/src: java/org/sakaiproject/tool/gradebook/ui/helpers/beans java/org/sakaiproject/tool/gradebook/ui/helpers/producers webapp/WEB-INF webapp/WEB-INF/bundle
+[sakai] svn commit: r39765 - in gradebook/trunk/app: business/src/java/org/sakaiproject/tool/gradebook/business business/src/java/org/sakaiproject/tool/gradebook/business/impl ui ui/src/java/org/sakaiproject/tool/gradebook/ui/helpers/beans ui/src/java/org/sakaiproject/tool/gradebook/ui/helpers/entity ui/src/java/org/sakaiproject/tool/gradebook/ui/helpers/params ui/src/java/org/sakaiproject/tool/gradebook/ui/helpers/producers ui/src/webapp/WEB-INF ui/src/webapp/WEB-INF/bundle ui/src/webapp/content/templates
+[sakai] svn commit: r39758 - in gradebook/trunk: app/business/src/java/org/sakaiproject/tool/gradebook/business/impl service/api/src/java/org/sakaiproject/service/gradebook/shared service/impl/src/java/org/sakaiproject/component/gradebook
+[sakai] svn commit: r39743 - gradebook/branches/oncourse_2-4-2/app/ui/src/java/org/sakaiproject/tool/gradebook/ui
+[sakai] svn commit: r39742 - gradebook/branches/oncourse_2-4-2/app/ui/src/java/org/sakaiproject/tool/gradebook/ui
+
+11. Cyrus versions (count: 54)
+v2.3.8
+v2.2.12
+v2.3.8
+v2.2.12
+v2.3.8
+v2.2.12
+v2.3.8
+v2.2.12
+v2.3.8
+v2.2.12
+v2.3.8
+v2.2.12
+v2.3.8
+v2.2.12
+v2.3.8
+v2.2.12
+v2.3.8
+v2.2.12
+v2.3.8
+v2.2.12
+v2.3.8
+v2.2.12
+v2.3.8
+v2.2.12
+v2.3.8
+v2.2.12
+v2.3.8
+v2.2.12
+v2.3.8
+v2.2.12
+v2.3.8
+v2.2.12
+v2.3.8
+v2.2.12
+v2.3.8
+v2.2.12
+v2.3.8
+v2.2.12
+v2.3.8
+v2.2.12
+v2.3.8
+v2.2.12
+v2.3.8
+v2.2.12
+v2.3.8
+v2.2.12
+v2.3.8
+v2.2.12
+v2.3.8
+v2.2.12
+v2.3.8
+v2.2.12
+v2.3.8
+v2.2.12
+
+12. SMTP IDs (count: 27)
+899
+710
+906
+38
+622
+960
+120
+697
+272
+1006
+483
+966
+690
+25
+32
+575
+611
+585
+246
+153
+385
+754
+236
+554
+611
+917
+6
+
+13. Message-ID values (without domain) (count: 27)
+200801051412.m05ECIaH010327
+200801042308.m04N8v6O008125
+200801042109.m04L92hb007923
+200801042044.m04Kiem3007881
+200801042001.m04K1cO0007738
+200801041948.m04JmdwO007705
+200801041635.m04GZQGZ007313
+200801041633.m04GX6eG007292
+200801041611.m04GB1Lb007221
+200801041610.m04GA5KP007209
+200801041609.m04G9EuX007197
+200801041608.m04G8d7w007184
+200801041537.m04Fb6Ci007092
+200801041515.m04FFv42007050
+200801041502.m04F21Jo007031
+200801041403.m04E3psW006926
+200801041200.m04C0gfK006793
+200801041106.m04B6lK3006677
+200801040947.m049lUxo006517
+200801040932.m049W2i5006493
+200801040905.m0495rWB006420
+200801040023.m040NpCc005473
+200801032216.m03MGhDa005292
+200801032205.m03M5Ea7005273
+200801032133.m03LX3gG005191
+200801032127.m03LRUqH005177
+200801032122.m03LMFo4005148
+
+14. Number of lines: 1910
+
+15. Lines containing 'java' (count: 83)
+Subject: [sakai] svn commit: r39772 - content/branches/sakai_2-5-x/content-impl/impl/src/java/org/sakaiproject/content/impl
+content/branches/sakai_2-5-x/content-impl/impl/src/java/org/sakaiproject/content/impl/ContentServiceSqlOracle.java
+content/branches/sakai_2-5-x/content-impl/impl/src/java/org/sakaiproject/content/impl/DbContentService.java
+Subject: [sakai] svn commit: r39771 - in bspace/site-manage/sakai_2-4-x/site-manage-tool/tool/src: bundle java/org/sakaiproject/site/tool
+bspace/site-manage/sakai_2-4-x/site-manage-tool/tool/src/java/org/sakaiproject/site/tool/SiteAction.java
+Subject: [sakai] svn commit: r39769 - in gradebook/trunk/app/ui/src: java/org/sakaiproject/tool/gradebook/ui/helpers/beans java/org/sakaiproject/tool/gradebook/ui/helpers/producers webapp/WEB-INF webapp/WEB-INF/bundle
+gradebook/trunk/app/ui/src/java/org/sakaiproject/tool/gradebook/ui/helpers/beans/AssignmentGradeRecordBean.java
+gradebook/trunk/app/ui/src/java/org/sakaiproject/tool/gradebook/ui/helpers/producers/GradeGradebookItemProducer.java
+Subject: [sakai] svn commit: r39766 - site-manage/branches/sakai_2-4-x/site-manage-tool/tool/src/java/org/sakaiproject/site/tool
+site-manage/branches/sakai_2-4-x/site-manage-tool/tool/src/java/org/sakaiproject/site/tool/SiteAction.java
+MODIFY /site-manage/trunk/site-manage-tool/tool/src/java/org/sakaiproject/site/tool/SiteAction.java 
+Subject: [sakai] svn commit: r39765 - in gradebook/trunk/app: business/src/java/org/sakaiproject/tool/gradebook/business business/src/java/org/sakaiproject/tool/gradebook/business/impl ui ui/src/java/org/sakaiproject/tool/gradebook/ui/helpers/beans ui/src/java/org/sakaiproject/tool/gradebook/ui/helpers/entity ui/src/java/org/sakaiproject/tool/gradebook/ui/helpers/params ui/src/java/org/sakaiproject/tool/gradebook/ui/helpers/producers ui/src/webapp/WEB-INF ui/src/webapp/WEB-INF/bundle ui/src/webapp/content/templates
+gradebook/trunk/app/ui/src/java/org/sakaiproject/tool/gradebook/ui/helpers/beans/AssignmentGradeRecordBean.java
+gradebook/trunk/app/ui/src/java/org/sakaiproject/tool/gradebook/ui/helpers/beans/AssignmentGradeRecordCreator.java
+gradebook/trunk/app/ui/src/java/org/sakaiproject/tool/gradebook/ui/helpers/entity/GradebookEntryGradeEntityProvider.java
+gradebook/trunk/app/ui/src/java/org/sakaiproject/tool/gradebook/ui/helpers/params/GradeGradebookItemViewParams.java
+gradebook/trunk/app/ui/src/java/org/sakaiproject/tool/gradebook/ui/helpers/producers/GradeGradebookItemProducer.java
+gradebook/trunk/app/business/src/java/org/sakaiproject/tool/gradebook/business/GradebookManager.java
+gradebook/trunk/app/business/src/java/org/sakaiproject/tool/gradebook/business/impl/GradebookManagerHibernateImpl.java
+gradebook/trunk/app/ui/src/java/org/sakaiproject/tool/gradebook/ui/helpers/beans/GradebookItemBean.java
+gradebook/trunk/app/ui/src/java/org/sakaiproject/tool/gradebook/ui/helpers/entity/GradebookEntryEntityProvider.java
+gradebook/trunk/app/ui/src/java/org/sakaiproject/tool/gradebook/ui/helpers/producers/AddGradebookItemProducer.java
+Subject: [sakai] svn commit: r39764 - in msgcntr/trunk/messageforums-app/src/java/org/sakaiproject/tool/messageforums: . ui
+msgcntr/trunk/messageforums-app/src/java/org/sakaiproject/tool/messageforums/PrivateMessagesTool.java
+msgcntr/trunk/messageforums-app/src/java/org/sakaiproject/tool/messageforums/ui/PrivateMessageDecoratedBean.java
+U    messageforums-app/src/java/org/sakaiproject/tool/messageforums/PrivateMessagesTool.java
+U    messageforums-app/src/java/org/sakaiproject/tool/messageforums/ui/PrivateMessageDecoratedBean.java
+Subject: [sakai] svn commit: r39763 - in msgcntr/trunk: messageforums-api/src/bundle/org/sakaiproject/api/app/messagecenter/bundle messageforums-app/src/java/org/sakaiproject/tool/messageforums
+msgcntr/trunk/messageforums-app/src/java/org/sakaiproject/tool/messageforums/PrivateMessagesTool.java
+U    messageforums-app/src/java/org/sakaiproject/tool/messageforums/PrivateMessagesTool.java
+Subject: [sakai] svn commit: r39760 - in site-manage/trunk/site-manage-tool/tool/src: java/org/sakaiproject/site/tool webapp/vm/sitesetup
+site-manage/trunk/site-manage-tool/tool/src/java/org/sakaiproject/site/tool/SiteAction.java
+Subject: [sakai] svn commit: r39758 - in gradebook/trunk: app/business/src/java/org/sakaiproject/tool/gradebook/business/impl service/api/src/java/org/sakaiproject/service/gradebook/shared service/impl/src/java/org/sakaiproject/component/gradebook
+gradebook/trunk/app/business/src/java/org/sakaiproject/tool/gradebook/business/impl/GradebookManagerHibernateImpl.java
+gradebook/trunk/service/api/src/java/org/sakaiproject/service/gradebook/shared/GradebookService.java
+gradebook/trunk/service/impl/src/java/org/sakaiproject/component/gradebook/GradebookServiceHibernateImpl.java
+Subject: [sakai] svn commit: r39757 - in assignment/trunk: assignment-impl/impl/src/java/org/sakaiproject/assignment/impl assignment-tool/tool/src/webapp/vm/assignment
+assignment/trunk/assignment-impl/impl/src/java/org/sakaiproject/assignment/impl/BaseAssignmentService.java
+Subject: [sakai] svn commit: r39756 - in component/branches/SAK-12166/component-api/component/src/java/org/sakaiproject/component: impl impl/spring/support impl/spring/support/dynamic impl/support util
+component/branches/SAK-12166/component-api/component/src/java/org/sakaiproject/component/impl/spring/support/dynamic/
+component/branches/SAK-12166/component-api/component/src/java/org/sakaiproject/component/impl/spring/support/dynamic/DynamicComponentManager.java
+component/branches/SAK-12166/component-api/component/src/java/org/sakaiproject/component/impl/support/
+component/branches/SAK-12166/component-api/component/src/java/org/sakaiproject/component/impl/support/DynamicComponentRecord.java
+component/branches/SAK-12166/component-api/component/src/java/org/sakaiproject/component/impl/support/DynamicJARManager.java
+component/branches/SAK-12166/component-api/component/src/java/org/sakaiproject/component/impl/support/JARRecord.java
+component/branches/SAK-12166/component-api/component/src/java/org/sakaiproject/component/util/ByteToCharBase64.java
+component/branches/SAK-12166/component-api/component/src/java/org/sakaiproject/component/util/FileUtil.java
+component/branches/SAK-12166/component-api/component/src/java/org/sakaiproject/component/util/RecordFileIO.java
+component/branches/SAK-12166/component-api/component/src/java/org/sakaiproject/component/util/RecordReader.java
+component/branches/SAK-12166/component-api/component/src/java/org/sakaiproject/component/util/RecordWriter.java
+component/branches/SAK-12166/component-api/component/src/java/org/sakaiproject/component/util/StreamDigestor.java
+component/branches/SAK-12166/component-api/component/src/java/org/sakaiproject/component/impl/spring/support/ComponentsLoaderImpl.java
+Subject: [sakai] svn commit: r39755 - in sam/branches/SAK-12065: samigo-api/src/java/org/sakaiproject/tool/assessment/shared/api/grading samigo-app/src/java/org/sakaiproject/tool/assessment/ui/bean/evaluation samigo-app/src/java/org/sakaiproject/tool/assessment/ui/listener/evaluation samigo-services/src/java/org/sakaiproject/tool/assessment/facade samigo-services/src/java/org/sakaiproject/tool/assessment/integration/helper/ifc samigo-services/src/java/org/sakaiproject/tool/assessment/integration/helper/integrated samigo-services/src/java/org/sakaiproject/tool/assessment/integration/helper/standalone samigo-services/src/java/org/sakaiproject/tool/assessment/shared/impl/grading
+sam/branches/SAK-12065/samigo-api/src/java/org/sakaiproject/tool/assessment/shared/api/grading/GradingSectionAwareServiceAPI.java
+sam/branches/SAK-12065/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/bean/evaluation/QuestionScoresBean.java
+sam/branches/SAK-12065/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/bean/evaluation/SubmissionStatusBean.java
+sam/branches/SAK-12065/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/bean/evaluation/TotalScoresBean.java
+sam/branches/SAK-12065/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/listener/evaluation/SubmissionStatusListener.java
+sam/branches/SAK-12065/samigo-services/src/java/org/sakaiproject/tool/assessment/facade/PublishedAssessmentFacadeQueries.java
+sam/branches/SAK-12065/samigo-services/src/java/org/sakaiproject/tool/assessment/facade/PublishedAssessmentFacadeQueriesAPI.java
+sam/branches/SAK-12065/samigo-services/src/java/org/sakaiproject/tool/assessment/integration/helper/ifc/SectionAwareServiceHelper.java
+sam/branches/SAK-12065/samigo-services/src/java/org/sakaiproject/tool/assessment/integration/helper/integrated/SectionAwareServiceHelperImpl.java
+sam/branches/SAK-12065/samigo-services/src/java/org/sakaiproject/tool/assessment/integration/helper/standalone/SectionAwareServiceHelperImpl.java
+sam/branches/SAK-12065/samigo-services/src/java/org/sakaiproject/tool/assessment/shared/impl/grading/GradingSectionAwareServiceImpl.java
+Subject: [sakai] svn commit: r39754 - in polls/branches/sakai_2-5-x: . tool tool/src/java/org/sakaiproject/poll/tool tool/src/java/org/sakaiproject/poll/tool/evolvers tool/src/webapp/WEB-INF
+polls/branches/sakai_2-5-x/tool/src/java/org/sakaiproject/poll/tool/evolvers/
+polls/branches/sakai_2-5-x/tool/src/java/org/sakaiproject/poll/tool/evolvers/SakaiFCKTextEvolver.java
+polls/branches/sakai_2-5-x/tool/src/java/org/sakaiproject/poll/tool/evolvers/SakaiFCKTextEvolver.java
+A    polls/tool/src/java/org/sakaiproject/poll/tool/evolvers
+A    polls/tool/src/java/org/sakaiproject/poll/tool/evolvers/SakaiFCKTextEvolver.java
+Subject: [sakai] svn commit: r39753 - in polls/trunk: . tool tool/src/java/org/sakaiproject/poll/tool tool/src/java/org/sakaiproject/poll/tool/evolvers tool/src/webapp/WEB-INF
+polls/trunk/tool/src/java/org/sakaiproject/poll/tool/evolvers/
+polls/trunk/tool/src/java/org/sakaiproject/poll/tool/evolvers/SakaiFCKTextEvolver.java
+Subject: [sakai] svn commit: r39750 - event/branches/SAK-6216/event-util/util/src/java/org/sakaiproject/util
+event/branches/SAK-6216/event-util/util/src/java/org/sakaiproject/util/EmailNotification.java
+Subject: [sakai] svn commit: r39745 - providers/trunk/cm/cm-authz-provider/src/java/org/sakaiproject/coursemanagement/impl/provider
+providers/trunk/cm/cm-authz-provider/src/java/org/sakaiproject/coursemanagement/impl/provider/CourseManagementGroupProvider.java
+Subject: [sakai] svn commit: r39743 - gradebook/branches/oncourse_2-4-2/app/ui/src/java/org/sakaiproject/tool/gradebook/ui
+gradebook/branches/oncourse_2-4-2/app/ui/src/java/org/sakaiproject/tool/gradebook/ui/RosterBean.java
+U    app/ui/src/java/org/sakaiproject/tool/gradebook/ui/RosterBean.java
+Subject: [sakai] svn commit: r39742 - gradebook/branches/oncourse_2-4-2/app/ui/src/java/org/sakaiproject/tool/gradebook/ui
+gradebook/branches/oncourse_2-4-2/app/ui/src/java/org/sakaiproject/tool/gradebook/ui/RosterBean.java
+U    app/ui/src/java/org/sakaiproject/tool/gradebook/ui/RosterBean.java
+
+16. Time values (HH:MM:SS) (count: 359)
+09:14:16
+09:14:16
+09:14:16
+09:14:15
+09:14:10
+14:10:05
+14:09:50
+14:13:33
+09:12:19
+09:12:18
+09:12:18
+09:14:16
+09:12:07
+18:10:48
+18:10:48
+18:10:48
+18:10:37
+18:10:31
+23:10:33
+23:10:10
+23:10:10
+18:08:57
+18:08:57
+18:08:57
+18:10:48
+18:08:50
+16:10:39
+16:10:39
+16:10:39
+16:10:38
+16:10:33
+21:10:31
+21:10:18
+21:10:14
+16:09:02
+16:09:02
+16:09:02
+16:10:39
+16:09:01
+15:46:24
+15:46:24
+15:46:24
+15:46:23
+15:46:13
+20:46:13
+20:45:56
+20:45:52
+15:44:40
+15:44:40
+15:44:40
+15:46:24
+15:44:39
+15:03:18
+15:03:18
+15:03:18
+15:03:17
+15:03:15
+20:03:09
+20:02:46
+20:02:50
+15:01:38
+15:01:38
+15:01:38
+15:03:18
+15:01:37
+14:54:46
+14:50:18
+14:50:18
+14:50:18
+14:50:17
+14:50:13
+19:47:10
+19:46:50
+19:49:51
+14:48:40
+14:48:39
+14:48:39
+14:50:18
+14:48:37
+11:37:30
+11:37:30
+11:37:30
+11:37:29
+11:37:09
+16:37:07
+16:36:40
+16:36:37
+11:35:26
+11:35:26
+11:35:26
+11:37:30
+11:35:25
+15:25:38
+11:35:08
+11:35:08
+11:35:08
+11:35:06
+11:35:02
+16:34:38
+16:34:01
+16:34:17
+11:33:06
+11:33:06
+11:33:06
+11:35:08
+11:33:05
+21:26:28
+11:12:37
+11:12:37
+11:12:37
+11:12:36
+11:12:30
+16:12:27
+16:12:14
+16:12:12
+11:11:01
+11:11:01
+11:11:01
+11:12:37
+11:11:00
+11:11:52
+11:11:52
+11:11:52
+11:11:52
+11:11:34
+16:11:31
+16:11:18
+16:11:16
+11:10:05
+11:10:05
+11:10:05
+11:11:52
+11:10:04
+11:11:03
+11:11:03
+11:11:03
+11:11:03
+11:10:56
+16:10:53
+16:10:27
+16:10:26
+11:09:15
+11:09:14
+11:09:14
+11:11:03
+11:09:12
+11:10:22
+11:10:22
+11:10:22
+11:10:21
+11:10:18
+16:10:11
+16:09:51
+16:09:50
+11:08:39
+11:08:39
+11:08:39
+11:10:22
+11:08:38
+10:38:42
+10:38:42
+10:38:42
+10:38:41
+10:38:37
+15:37:36
+15:37:21
+15:38:17
+10:37:06
+10:37:06
+10:37:06
+10:38:42
+10:37:04
+10:17:43
+10:17:43
+10:17:42
+10:17:42
+10:17:38
+15:17:34
+15:17:11
+15:17:08
+10:15:57
+10:15:57
+10:15:57
+10:17:42
+10:15:54
+10:04:14
+10:04:14
+10:04:14
+10:04:13
+10:04:05
+15:04:00
+15:03:15
+15:03:12
+10:02:01
+10:02:01
+10:02:01
+10:04:14
+10:01:40
+09:05:31
+09:05:31
+09:05:31
+09:05:30
+09:05:26
+14:05:26
+14:05:04
+14:05:03
+09:03:52
+09:03:51
+09:03:51
+09:05:31
+09:02:54
+07:02:32
+07:02:32
+07:02:32
+07:02:31
+07:02:27
+12:02:11
+12:01:53
+12:01:53
+07:00:42
+07:00:42
+07:00:42
+07:02:32
+07:00:10
+13:05:51
+06:08:27
+06:08:27
+06:08:27
+06:08:26
+06:08:23
+11:08:12
+11:07:56
+11:07:58
+06:06:47
+06:06:47
+06:06:47
+06:08:27
+06:05:51
+04:49:08
+04:49:08
+04:49:08
+04:49:06
+04:49:03
+09:48:55
+09:48:36
+09:48:40
+04:47:30
+04:47:30
+04:47:30
+04:49:08
+04:47:16
+23:44:24
+04:33:44
+04:33:44
+04:33:44
+04:33:42
+04:33:35
+09:33:27
+09:33:10
+09:33:13
+04:32:03
+04:32:02
+04:32:02
+04:33:44
+04:31:35
+21:40:33
+04:07:34
+04:07:34
+04:07:34
+04:07:32
+04:07:29
+09:07:19
+09:07:04
+09:07:04
+04:05:54
+04:05:53
+04:05:53
+04:07:34
+04:05:43
+19:51:21
+19:51:21
+19:51:21
+19:51:19
+19:51:15
+00:36:06
+00:35:43
+00:25:00
+19:23:51
+19:23:51
+19:23:51
+19:51:20
+19:23:46
+17:18:23
+17:18:23
+17:18:23
+17:18:22
+17:18:14
+22:18:19
+22:18:04
+22:17:52
+17:16:43
+17:16:43
+17:16:43
+17:18:23
+17:16:39
+17:07:00
+17:07:00
+17:07:00
+17:06:59
+17:06:53
+22:06:57
+22:06:34
+22:06:23
+17:05:14
+17:05:14
+17:05:14
+17:07:00
+17:05:11
+16:34:40
+16:34:40
+16:34:40
+16:34:39
+16:34:36
+21:34:29
+21:34:08
+21:34:12
+16:33:03
+16:33:03
+16:33:03
+16:34:40
+16:33:02
+16:29:07
+16:29:07
+16:29:07
+16:29:06
+16:28:58
+21:28:52
+21:28:39
+21:28:38
+16:27:30
+16:27:30
+16:27:30
+16:29:07
+16:27:29
+17:11:08
+16:23:48
+16:23:48
+16:23:48
+16:23:47
+16:23:44
+21:23:38
+21:23:24
+21:23:24
+16:22:15
+16:22:15
+16:22:15
+16:23:48
+16:22:14
+16:17:59
+
+17. Longest non-empty line:
+Subject: [sakai] svn commit: r39755 - in sam/branches/SAK-12065: samigo-api/src/java/org/sakaiproject/tool/assessment/shared/api/grading samigo-app/src/java/org/sakaiproject/tool/assessment/ui/bean/evaluation samigo-app/src/java/org/sakaiproject/tool/assessment/ui/listener/evaluation samigo-services/src/java/org/sakaiproject/tool/assessment/facade samigo-services/src/java/org/sakaiproject/tool/assessment/integration/helper/ifc samigo-services/src/java/org/sakaiproject/tool/assessment/integration/helper/integrated samigo-services/src/java/org/sakaiproject/tool/assessment/integration/helper/standalone samigo-services/src/java/org/sakaiproject/tool/assessment/shared/impl/grading
+Length: 684 characters
+
+18. Shortest non-empty line:
+Log:
+Length: 4 characters
